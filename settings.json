@@ -1,0 +1,22 @@
+// 既定の設定を上書きするには、このファイル内に設定を挿入します
+{
+    "window.zoomLevel": 1,
+    "git.autofetch": false,
+    "editor.renderWhitespace": "all",
+    "editor.renderIndentGuides": true,
+    "editor.wordWrap": true,
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/.DS_Store": true,
+        "**/node_modules": true,
+        "**/coverage": true
+    },
+    "workbench.welcome.enabled": false,
+    "workbench.editor.enablePreview": false,
+    "explorer.openEditors.visible": 5,
+    "typescript.check.tscVersion": false,
+    "editor.tabSize": 2,
+    "auto-close-tag.enableAutoCloseTag": false
+}

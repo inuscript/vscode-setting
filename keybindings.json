@@ -1,0 +1,5 @@
+// 既定値を上書きするには、このファイル内にキー バインドを挿入します
+[
+    { "key": "shift+cmd+d",           "command": "editor.action.copyLinesDownAction" },
+    { "key": "shift+cmd+;",           "command": "workbench.action.zoomIn" },
+]
